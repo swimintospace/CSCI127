@@ -1,0 +1,5 @@
+#Eliyas Philip
+#Email: eliyas.philip84@myhunter.cuny.edu 
+
+
+(not (in1 and in2)) and ((in1 or in2)) or (in1 and in2)
